@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SampleprojectApplication {
 
 	public static void main(String[] args) {
+		System.out.println("NAvin");
 		SpringApplication.run(SampleprojectApplication.class, args);
 	}
 }
